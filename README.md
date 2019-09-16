@@ -1,5 +1,5 @@
 # ACMSIGCHI_UMCIT2019
-User Modeling and Personalization for Urban Computing
+User Modeling and Personalization in Urban Computing
 
 ![ACM](https://github.com/kennedyCzar/ACMSIGCHI_UMCIT2019/blob/master/IMAGES/IMG1.png)
 -----------------------------
