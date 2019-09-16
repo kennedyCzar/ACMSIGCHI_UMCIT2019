@@ -1,6 +1,7 @@
 # ACMSIGCHI_UMCIT2019
 User Modeling and Personalization for Urban Computing
 
+![ACM](https://github.com/kennedyCzar/ACMSIGCHI_UMCIT2019/blob/master/IMAGES/IMG1.png)
 -----------------------------
 #### Day 1
 Presentation: **Marcelo G.** | [pdf](https://github.com/kennedyCzar/ACMSIGCHI_UMCIT2019/blob/master/PRESENTATION%20SUMMARY/Mobile%20Crowdsensing.pdf) | [notebook](https://github.com/kennedyCzar/ACMSIGCHI_UMCIT2019/blob/master/NOTEBOOKS/Visua_Golocation.ipynb)
