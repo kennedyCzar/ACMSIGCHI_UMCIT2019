@@ -7,7 +7,7 @@ User Modeling and Personalization in Urban Computing
 Presentation: **Marcelo G.** | [pdf](https://github.com/kennedyCzar/ACMSIGCHI_UMCIT2019/blob/master/PRESENTATION%20SUMMARY/Mobile%20Crowdsensing.pdf) | [notebook](https://github.com/kennedyCzar/ACMSIGCHI_UMCIT2019/blob/master/NOTEBOOKS/Visua_Golocation.ipynb)
 -----------------------------
 #### Day 2
-Presentation: **Antonela T.** | [pdf](https://github.com/kennedyCzar/ACMSIGCHI_UMCIT2019)
+Presentation: **Antonela T.** | [pdf](https://github.com/kennedyCzar/ACMSIGCHI_UMCIT2019) [pdf](https://github.com/kennedyCzar/ACMSIGCHI_UMCIT2019/blob/master/PRESENTATION%20SUMMARY/slides-data-fusion.pdf)
 -----------------------------
 #### Day 3
 Presentation: **Ludovico B.** | [pdf](https://github.com/kennedyCzar/ACMSIGCHI_UMCIT2019/blob/master/PRESENTATION%20SUMMARY/poi_recommendation.pdf)
